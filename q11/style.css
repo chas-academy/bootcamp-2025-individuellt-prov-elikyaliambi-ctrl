@@ -1,8 +1,9 @@
 body {
-  margin: 0;
+  background:linear-gradient(to top, burlywood, brown);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .container {
   height: 100vh;
-  background-color: #d6f4ff;
 }
